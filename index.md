@@ -16,7 +16,8 @@ are. *What are your expectations?* You may want to approach this here in a
 structured way or do it freestyle. You may need a lot of handouts or just want
 to speak your mind. *What are your values?* You may exactly know on which
 fundamentals a relationship has to be build or you are cool to adapt to unknown
-terrain. You may require something nobody can give you or take anything you can.
+terrain. You may require something nobody can provide or you simply want to take
+anything you get.
 
 
 
