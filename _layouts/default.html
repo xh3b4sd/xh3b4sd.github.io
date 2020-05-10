@@ -5,8 +5,9 @@
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono" integrity="sha512-CVHRzeBsqbSo9W+EjHL7pkkfjaf/ymCu8pBzC0KIHuuo5qq/uI7ek1vQph5j2ioAKm6SFqjZMExkw/0W4Y0ysg== sha512-8juT2juXD5N87yDvfmPHgTXopYpgBzNMkzb3IEc/BefbfmoDS9dkwBvNYPizMFFoeiAK3YsltmHY73qkaR4IZQ==" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -15,9 +16,6 @@
   <body>
     <div id="container">
       <div class="inner">
-        <header>
-          <h3>{{ page.description | default: site.description | default: site.github.project_tagline }}</h3>
-        </header>
         <section id="main_content">
           {{ content }}
         </section>
