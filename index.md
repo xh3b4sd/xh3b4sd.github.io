@@ -5,6 +5,9 @@ layout: default
 
 
 ### the more we ignore reality the more we do not like it
+### success is up to your own individual definition
+### you can decide to either have problems or to solve them
+### not because they are easy but because they are hard
 
 
 
