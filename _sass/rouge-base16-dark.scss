@@ -6,6 +6,7 @@
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
+  box-shadow: inset 0 0 5px #000000;
   color: #d0d0d0;
   text-align: center;
   -webkit-user-select: all;  /* Chrome all / Safari all */
