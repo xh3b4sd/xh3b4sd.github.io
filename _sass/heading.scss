@@ -41,9 +41,11 @@ section h3 {
 }
 
 section h3:not(.quote) {
+  display: none;
 	position: absolute;
 }
 
 section h3.visible {
+  display: block;
   opacity: 1;
 }

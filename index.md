@@ -23,6 +23,12 @@ personal discovery call and get ready for what really matters to you. All you
 need to do is to think about the following three questions and send your answers
 to the binary encoded contact information below.
 
+
+
+---
+
+
+
 1. What are your challenges? You may want to overcome a fear or reach a goal.
    You may want to solve a problem or figure out who you are.
 
