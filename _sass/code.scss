@@ -1,0 +1,35 @@
+
+section pre {
+  animation: gradient 5s ease-out infinite;
+  background: linear-gradient(5deg, #2b3138 30%, #5175ad 70%);
+  background-size: 400% 400%;
+  box-shadow: inset 0 0 20px #434b5f;
+  overflow: auto;
+  padding: 20px;
+  text-shadow: none;
+  line-height: 0.9;
+  text-align: center;
+  -webkit-user-select: all;
+  -moz-user-select: all;
+  -ms-user-select: all;
+  user-select: all;
+}
+
+section code {
+  color: #aaaaaa;
+  font-size: 14px;
+  line-height: 0.9;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

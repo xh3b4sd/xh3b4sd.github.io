@@ -15,20 +15,25 @@ layout: default
 
 
 
-You are here for the challenges ahead. I offer you a discovery call when you
-think about the following three questions and send your answers to the binary
-encoded contact information below.
+You are here for the challenges ahead and what you find with our service is a
+holistic approach of interdisciplinary mentoring. Real human connections and
+clear communication sets us apart. We do not let you down. Integrity is a
+fundamental building block when working together. No bullshit. Request your
+personal discovery call and get ready for what really matters to you. All you
+need to do is to think about the following three questions and send your answers
+to the binary encoded contact information below.
 
-What are your challenges? You may want to overcome a fear or reach a goal. You
-may want to solve a problem or figure out who you are.
+1. What are your challenges? You may want to overcome a fear or reach a goal.
+   You may want to solve a problem or figure out who you are.
 
-What are your expectations? You may want to approach this here in a structured
-way or do it freestyle. You may need a lot of handouts or just want to speak
-your mind.
+2. What are your expectations? You may want to approach this here in a
+   structured way or do it freestyle. You may need a lot of handouts or just
+   want to speak your mind.
 
-What are your values? You may exactly know on which fundamentals a relationship
-has to be build or you are cool to adapt to unknown terrain. You may require
-something nobody can provide or you simply want to take anything you get.
+3. What are your values? You may exactly know on which fundamentals a
+   relationship has to be build or you are cool to adapt to unknown terrain. You
+   may require something nobody can provide or you simply want to take anything
+   you get.
 
 
 

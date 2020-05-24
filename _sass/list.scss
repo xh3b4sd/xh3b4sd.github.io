@@ -1,0 +1,16 @@
+
+ol, ul {
+	margin: 0 50px;
+}
+
+ul li {
+  list-style-position: inside;
+  list-style: disc;
+  padding-left: 20px;
+}
+
+ol li {
+  list-style-position: inside;
+  list-style: decimal;
+  padding-left: 3px;
+}
